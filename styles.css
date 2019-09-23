@@ -1,0 +1,36 @@
+body {
+
+  background-color: #0ea5c6;
+  color: #ffc60b;
+  font-family: Lobster;
+  text-align: center;
+}
+
+h1 {
+  font-size: 8em;
+  padding-top: 3%;
+  padding-bottom: 7%;
+}
+
+h2 {
+  font-size: 2.5em;
+  padding-left: 5% 10% 10%;
+}
+
+footer {
+  font-family: Oswald;
+  font-size: 1.2em;
+  padding-top: 3%;
+  text-align: center;
+}
+
+img {
+  width: 80%;
+
+}
+
+.dice {
+  display: inline-block;
+
+
+}
